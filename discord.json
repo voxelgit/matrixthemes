@@ -2,16 +2,16 @@
     "name": "Rizzcord",
     "is_dark": true,
     "colors": {
-        "accent-color": "#747ff4",
-        "accent": "#747ff4",
+        "accent-color": "#ffffff",
+        "accent": "#ffffff",
         "primary-color": "#000000",
-        "warning-color": "#f57f17",
+        "warning-color": "#ffffff",
         "alert": "#faa81ad9",
 
         "sidebar-color": "#000000",
         "roomlist-background-color": "#000000",
         "roomlist-text-color": "#ffffff",
-        "roomlist-text-secondary-color": "#8e9297",
+        "roomlist-text-secondary-color": "#ffffff",
         "roomlist-highlights-color": "#4f545c52",
         "roomlist-separator-color": "#40444b",
 

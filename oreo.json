@@ -1,5 +1,5 @@
 {
-    "name": "Matrixcord",
+    "name": "Oreo",
     "is_dark": true,
     "colors": {
         "accent-color": "#ffffff",
@@ -13,7 +13,7 @@
         "roomlist-text-color": "#ffffff",
         "roomlist-text-secondary-color": "#ffffff",
         "roomlist-highlights-color": "#4f545c52",
-        "roomlist-separator-color": "#40444b",
+        "roomlist-separator-color": "#ffffff",
 
         "timeline-background-color": "#000000",
         "timeline-text-color": "#ffffff",
@@ -23,10 +23,10 @@
         "timeline-highlights-color": "#04040512",
 
         "reaction-row-button-selected-bg-color": "#4752c4",
-        "menu-selected-color": "#4752c4",
+        "menu-selected-color": "#000000",
         "focus-bg-color": "#000000",
         "room-highlight-color": "#000000",
-        "other-user-pill-bg-color": "#4752c4",
-        "togglesw-off-color": "#72767d"
+        "other-user-pill-bg-color": "#000000",
+        "togglesw-off-color": "#e91e63"
     }
 }
